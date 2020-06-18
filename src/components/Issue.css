@@ -1,0 +1,49 @@
+.Issue {
+  padding: 6px 10px;
+  border-bottom: 1px solid rgba(0,0,0,0.2);
+}
+
+.Issue:hover {
+  background-color: rgba(0,0,0,0.07);
+}
+
+.Issue:last-of-type {
+  border-bottom: 0;
+}
+
+.Issue__details {
+  line-height: 1.3em;
+}
+
+.Issue__link {
+  font-weight: bold;
+  color: rgb(15, 15, 15);
+  text-decoration: none;
+  margin-right: 0.3em;
+}
+
+.Issue__link:hover {
+  color: #0366d6;
+}
+
+.Issue__labels {
+  display: inline;
+}
+
+.Issue__meta {
+  font-size: 0.8em;
+  color: #586069;
+}
+
+.Issue__meta a {
+  color: #586069;
+  text-decoration: none;
+}
+
+.Issue__meta a:hover {
+  color: #0366d6;
+}
+
+.Issue__icon {
+
+}

@@ -1,0 +1,11 @@
+.Label {
+  box-sizing: border-box;
+  display: inline-block;
+  font-size: 12px;
+  font-weight: 600;
+  line-height: 15px;
+  padding: 0.15em 4px;
+  margin-right: 0.2em;
+  border-radius: 2px;
+  text-decoration: none;
+}
